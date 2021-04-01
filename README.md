@@ -1,4 +1,4 @@
-# Rossmann Store Sales
+# Rossmann Store Sales ** On Going **
 
 ## The goal of this project is to predict the sales of the next 6 weeks 
 
